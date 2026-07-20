@@ -13,11 +13,15 @@ Essa aplicação permite:
 
 ## 📸 Screenshots
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 16px;">
-  <img src="assets/web-1.png" alt="Tela inicial do conversor de moedas" width="380" style="max-width: 380px;  height: auto; border: 2px solid #d0d7de; border-radius: 12px;" />
-  <img src="assets/web-2.png" alt="Exemplo de conversão na aplicação" width="380" style="max-width: 380px;  height: auto; border: 2px solid #d0d7de; border-radius: 12px;" />
-  <img src="assets/mobile.png" alt="Versão mobile da aplicação" width="220" style="max-width: 220px; height: auto; border: 2px solid #d0d7de; border-radius: 12px;" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/web-1.png" alt="Tela inicial do conversor de moedas" width="380" border="2" /></td>
+    <td align="center"><img src="assets/web-2.png" alt="Exemplo de conversão na aplicação" width="380" border="2" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/mobile.png" alt="Versão mobile da aplicação" width="220" border="2" /></td>
+  </tr>
+</table>
 
 ## 🛠️ Tecnologias utilizadas
 
